@@ -6,3 +6,4 @@ Successfully installed and configured Kali Linux on VirtualBox, including NAT Ne
 ![](4.PNG)
 ![](5.PNG)
 ![](6.PNG)
+![](7.PNG)
